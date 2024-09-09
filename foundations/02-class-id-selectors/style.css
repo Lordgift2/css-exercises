@@ -1,4 +1,7 @@
-.oddnumber{background-color: pink; font-family: verdana,DejaVu Sans,sans-serif;font-size: large;} 
-#secondnumber{color: blue;font-size: 32px;}
-.thirdnumber{font-size: 24px;}
-#fourthnumber{background-color: lightgreen;font-size: 24px;font-weight: bold;}
+.oddnumber{background-color: pink; font-family: verdana,DejaVu Sans,sans-serif;} 
+#secondnumber{color: blue;font-size: 36px;}
+#fourthnumber{background-color: lightgreen;font-weight: bold;}
+.oddnumber,
+#forthnumber{
+    font-size: 24;
+}
